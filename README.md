@@ -16,13 +16,18 @@
   <img align="center" alt="Mila-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mila-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Mila-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/5150b9213d01d4d1190abf1aaa0b3975.gif" align="right" width="150" height="150" alt="Mila-gif" /></a>
 </div>
   
   ##
   
 <div>
   <a href="https://instagram.com/mila_mmii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_parent"></a>
- <a href="https://discord.com/channels/@myla_mm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_parent"></a> 
-  <a href = "mailto:camilamarq3004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_parent"></a>
+ <a href="https://discord.com/channels/990286419849252875/990286420415504386" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_parent"></a> 
+ <a href = "mailto:camilamarq3004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_parent"></a>
+  
+  ![Snake animation](https://github.com/camilaiinocencio/camilaiinocencio/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
+  
+ 
