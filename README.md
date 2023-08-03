@@ -1,6 +1,6 @@
 ## Oiê:) Eu sou a Camila Inocencio🐢
 
-- 📑 Estudando JavaScript
+- 📑 Estudando C#, PHP e SQL
 - 📫 Contate-me em: camilamarq3004@gmail.com
 - 🌿 Pronouns: ela/dela
 
