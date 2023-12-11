@@ -1,9 +1,7 @@
 ## Oiê:) Eu sou a Camila Inocencio🐢
 
-- 📑 Estudando C#, PHP e SQL
 - 📫 Contate-me em: camilamarq3004@gmail.com
-- 🌿 Pronouns: ela/dela
-
+  
 <div align="center">
   <a href="https://github.com/camilaiinocencio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilaiinocencio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
