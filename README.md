@@ -1,28 +1,43 @@
-## Oiê:) Eu sou a Camila Inocencio🐢
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
 
-- 📫 Contate-me em: camilamarq3004@gmail.com
-  
-<div align="center">
-  <a href="https://github.com/camilaiinocencio">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilaiinocencio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaiinocencio&layout=compact&langs_count=7&theme=radical"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Camila+Inocencio;I'm+17+years+old;I'm+from+Brazil;I'm+a+systems+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camilaiinocencio&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=DDA0DD&text_color=c9d1d9&bg_color=0d1117" alt="Camila Inocencio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaiinocencio&layout=compact&hide_border=true&title_color=9932CC&text_color=DDA0DD&bg_color=0d1117" />
 </div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Mila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mila-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Mila-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/5150b9213d01d4d1190abf1aaa0b3975.gif" align="right" width="150" height="150" alt="Mila-gif" /></a>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=camilaiinocencio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center"> 
+  <a href = "mailto:camilamarq3004@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camila-inocencio-038732248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+
+ ### Main skills:
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=blue&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C++&logoColor=purple&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=blue&labelColor=0D1117)&nbsp;
+
+<div style="display: inline_block"><br>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/1105027bafddc4e551e105de3bcd7be3.gif" align="right" width="150" height="150" alt="Mila-gif" /></a>
 </div>
   
   ##
   
 <div>
- <a href = "mailto:camilamarq3004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_parent"></a>
   
   ![Snake animation](https://github.com/camilaiinocencio/camilaiinocencio/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  
- 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=footer"/>
